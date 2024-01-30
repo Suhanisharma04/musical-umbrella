@@ -1,3 +1,3 @@
 # musical-umbrella
 
-This is atest repo. It will be soon deleted.
+This is a test repo. It will be soon deleted.
